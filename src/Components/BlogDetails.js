@@ -11,7 +11,7 @@ export const DataContext = (props) => {
             body : `Bengaluru (also called Bangalore) is the capital of India's southern Karnataka state. The center of India's high-tech industry, the city is also known for its parks and nightlife. By Cubbon Park, Vidhana Soudha is a Neo-Dravidian legislative building. Former royal residences include 19th-century Bangalore Palace, modeled after England’s Windsor Castle, and Tipu Sultan’s Summer Palace, an 18th-century teak structure.`,
             category : 'Tourism',
             date : `Aug 14, 2019`,
-            url : 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fplace%2FKarnataka-state-India&psig=AOvVaw3D4t0vV_oQy3DbXSKP-mWL&ust=1701751868731000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCTl-_99IIDFQAAAAAdAAAAABAJ'
+            url : 'https://cdn.britannica.com/73/156473-050-E0E9F844/Vidah-Sauda-state-legislature-building-Karnataka-Bengaluru.jpg'
         },
         {
             id : '2',
@@ -19,7 +19,7 @@ export const DataContext = (props) => {
             body : `Delhi, India’s capital territory, is a massive metropolitan area in the country’s north. In Old Delhi, a neighborhood dating to the 1600s, stands the imposing Mughal-era Red Fort, a symbol of India, and the sprawling Jama Masjid mosque, whose courtyard accommodates 25,000 people. Nearby is Chandni Chowk, a vibrant bazaar filled with food carts, sweets shops and spice stalls.`,
             category : 'Tourism',
             date : `Feb 13, 2017`,
-            url : 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.delhitourism.gov.in%2F&psig=AOvVaw3Ngq9SCJBOOlKiQBBLFaR0&ust=1701751713404000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjhiKX99IIDFQAAAAAdAAAAABAV'
+            url : 'https://media.tacdn.com/media/attractions-splice-spp-674x446/0f/c5/e8/5c.jpg'
         },
         {
             id : '3',
