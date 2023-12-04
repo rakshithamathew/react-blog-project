@@ -11,7 +11,7 @@ export const DataContext = (props) => {
             body : `Bengaluru (also called Bangalore) is the capital of India's southern Karnataka state. The center of India's high-tech industry, the city is also known for its parks and nightlife. By Cubbon Park, Vidhana Soudha is a Neo-Dravidian legislative building. Former royal residences include 19th-century Bangalore Palace, modeled after England’s Windsor Castle, and Tipu Sultan’s Summer Palace, an 18th-century teak structure.`,
             category : 'Tourism',
             date : `Aug 14, 2019`,
-            url : 'https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fbengaluru&psig=AOvVaw06Ee_sVXxhXBJnlTSDmLAh&ust=1701235017331000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCMDKt9H45YIDFQAAAAAdAAAAABAJ'
+            url : 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fplace%2FKarnataka-state-India&psig=AOvVaw3D4t0vV_oQy3DbXSKP-mWL&ust=1701751868731000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCTl-_99IIDFQAAAAAdAAAAABAJ'
         },
         {
             id : '2',
