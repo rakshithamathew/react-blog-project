@@ -19,7 +19,7 @@ export const DataContext = (props) => {
             body : `Delhi, India’s capital territory, is a massive metropolitan area in the country’s north. In Old Delhi, a neighborhood dating to the 1600s, stands the imposing Mughal-era Red Fort, a symbol of India, and the sprawling Jama Masjid mosque, whose courtyard accommodates 25,000 people. Nearby is Chandni Chowk, a vibrant bazaar filled with food carts, sweets shops and spice stalls.`,
             category : 'Tourism',
             date : `Feb 13, 2017`,
-            url : 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3D%2522delhi%2Bcity%2522&psig=AOvVaw14OmRIoG3lUrzrkv5uFmd1&ust=1701235144726000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCMiC4fn45YIDFQAAAAAdAAAAABAE'
+            url : 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.delhitourism.gov.in%2F&psig=AOvVaw3Ngq9SCJBOOlKiQBBLFaR0&ust=1701751713404000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjhiKX99IIDFQAAAAAdAAAAABAV'
         },
         {
             id : '3',
