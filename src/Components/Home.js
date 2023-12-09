@@ -35,7 +35,7 @@ const Home = () => {
             {data
               .filter(
                 (banner) =>
-                  banner.id === "1" &&
+                  banner.id === "5" &&
                   (banner.category === "Fitness" ||
                     banner.category === "Technology")
               )
