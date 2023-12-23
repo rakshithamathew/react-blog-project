@@ -12,7 +12,7 @@ const TheLatest = () => {
             <div className="the-latest-body">
                 {
                     data.filter(
-                        latest => latest.id === '3' && (latest.category === 'Fitness' || latest.category === 'Technology' || latest.category === 'Tourism')
+                        latest => latest.id === '3' && (latest.category === 'Fitness' || latest.category === 'Food' || latest.category === 'Tourism')
                     ).map(
                         latestInfo => (
                             <div className="the-latest-card">
