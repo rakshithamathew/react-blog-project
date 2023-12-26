@@ -198,7 +198,7 @@ export const DataContext = (props) => {
             body : `Data science is an interdisciplinary mathematics, statistics, computer science, information science, and domain knowledge.[4] However, data science is different from computer science and information science. Turing Award winner Jim Gray imagined data science as a "fourth paradigm" of science (empirical, theoretical, computational, and now data-driven) and asserted that "everything about science is changing because of the impact of information technology" and the data deluge.[5][6]`,
             category : `Technology`,
             date : `Jan 19, 2021`,
-            url : `https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg`
+            url : https://imageio.forbes.com/specials-images/dam/imageserve/974512548/960x0.jpg?fit=bounds&format=jpg&width=960`
         },
         {
             id : '2',
