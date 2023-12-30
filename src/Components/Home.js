@@ -37,7 +37,7 @@ const Home = () => {
                 (banner) =>
                   banner.id === "5" &&
                   (banner.category === "Fitness" ||
-                    banner.category === "Technology")
+                    banner.category === "Food")
               )
               .map((image) => (
                 <Link
