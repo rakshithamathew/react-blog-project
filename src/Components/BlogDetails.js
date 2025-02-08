@@ -98,13 +98,13 @@ export const DataContext = (props) => {
             body : `Data science is an interdisciplinary mathematics, statistics, computer science, information science, and domain knowledge.[4] However, data science is different from computer science and information science. Turing Award winner Jim Gray imagined data science as a "fourth paradigm" of science (empirical, theoretical, computational, and now data-driven) and asserted that "everything about science is changing because of the impact of information technology" and the data deluge.[5][6]`,
             category : `Technology`,
             date : `Jan 19, 2021`,
-            url : `import { useState, createContext } from 'react';
+            url : `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mygreatlearning.com%2Fblog%2Fwhat-is-data-science%2F&psig=AOvVaw05hZwQvg8eBxKMhSyoll-m&ust=1739090230032000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCNiMzI7Ws4sDFQAAAAAdAAAAABAE';
+},
+// export const MainContext = createContext();
 
-export const MainContext = createContext();
-
-export const DataContext = (props) => {
+// export const DataContext = (props) => {
     
-    const [Data, setData] = useState([
+//     const [Data, setData] = useState([
         {
             id : '1',
             title : `Bangaluru: City of IT Hubs`,
